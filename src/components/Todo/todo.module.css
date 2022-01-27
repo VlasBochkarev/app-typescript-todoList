@@ -1,0 +1,12 @@
+.todo {
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.todo__input{
+
+}
